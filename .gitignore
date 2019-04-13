@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Assets/Scenes/Data/LightingData/Level1/LightingData.asset
+Assets/Scenes/Data/LightingData/Level2/LightingData.asset
+
