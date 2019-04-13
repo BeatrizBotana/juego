@@ -37,4 +37,6 @@ sysinfo.txt
 
 Assets/Scenes/Data/LightingData/Level1/LightingData.asset
 Assets/Scenes/Data/LightingData/Level2/LightingData.asset
+Assets\Scenes\GamePlay/Level1
+Assets\Scenes\GamePlay/Level2
 
