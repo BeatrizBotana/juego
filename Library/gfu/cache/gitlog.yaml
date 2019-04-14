@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-04-14T11:22:35.951+02:00
+  initializedAtString: 2019-04-14T11:15:57.797+02:00
+  log:
+  - commitID: b2a3a6f8cab62bace2048803767c63d78572dab6
+    mergeA: 
+    mergeB: 
+    authorName: BeatrizBotana
+    authorEmail: beabv92@gmail.com
+    commitEmail: beabv92@gmail.com
+    commitName: BeatrizBotana
+    summary: Add sockets
+    description: Add sockets
+    timeString: 2019-04-14T11:19:52.000+02:00
+    commitTimeString: 2019-04-14T11:19:52.000+02:00
+    changes:
+    - path: Assets\SocketIO\WebsocketSharp\websocket-sharp.csproj
+      fullPath: C:\Users\beabv\Documents\Space\Assets\SocketIO\WebsocketSharp\websocket-sharp.csproj
+      projectPath: Assets\SocketIO\WebsocketSharp\websocket-sharp.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: e50ab066584aead6a132942f6856fce28f08d50f
+    mergeA: 
+    mergeB: 
+    authorName: BeatrizBotana
+    authorEmail: beabv92@gmail.com
+    commitEmail: beabv92@gmail.com
+    commitName: BeatrizBotana
+    summary: Changes
+    description: Changes
+    timeString: 2019-04-14T00:37:07.000+02:00
+    commitTimeString: 2019-04-14T00:37:07.000+02:00
+    changes:
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\beabv\Documents\Space\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\beabv\Documents\Space\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 04535b03c1b4a0b34cd593d6bdbce68e75fbdd52
+    mergeA: 
+    mergeB: 
+    authorName: BeatrizBotana
+    authorEmail: beabv92@gmail.com
+    commitEmail: beabv92@gmail.com
+    commitName: BeatrizBotana
+    summary: add socket.io
+    description: add socket.io
+    timeString: 2019-04-14T00:30:03.000+02:00
+    commitTimeString: 2019-04-14T00:30:03.000+02:00
+    changes:
+    - path: .collabignore
+      fullPath: C:\Users\beabv\Documents\Space\.collabignore
+      projectPath: .collabignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Art.meta
+      fullPath: C:\Users\beabv\Documents\Space\Assets\Art.meta
+      projectPath: Assets\Art.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Art\Sprites.meta
+      fullPath: C:\Users\beabv\Documents\Space\Assets\Art\Sprites.meta
+      projectPath: Assets\Art\Sprites.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Art\Sprites\AnimatedSprites.meta
+      fullPath: C:\Users\beabv\Documents\Space\Assets\Art\Sprites\AnimatedSprites.meta
+      projectPath: Assets\Art\Sprites\AnimatedSprites.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\beabv\Documents\Space\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\beabv\Documents\Space\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\beabv\Documents\Space\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\beabv\Documents\Space\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs.meta
+      fullPath: C:\Users\beabv\Documents\Space\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\UIPrefabs.meta
+      fullPath: C:\Users\beabv\Documents\Space\Assets\Prefabs\UIPrefabs.meta
+      projectPath: Assets\Prefabs\UIPrefabs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\SocketIO.meta
+      fullPath: C:\Users\beabv\Documents\Space\Assets\SocketIO.meta
+      projectPath: Assets\SocketIO.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\SocketIO\WebsocketSharp.meta
+      fullPath: C:\Users\beabv\Documents\Space\Assets\SocketIO\WebsocketSharp.meta
+      projectPath: Assets\SocketIO\WebsocketSharp.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\SocketIO\WebsocketSharp\websocket-sharp.csproj.meta
+      fullPath: C:\Users\beabv\Documents\Space\Assets\SocketIO\WebsocketSharp\websocket-sharp.csproj.meta
+      projectPath: Assets\SocketIO\WebsocketSharp\websocket-sharp.csproj.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\beabv\Documents\Space\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 3478f0bdbffa5471f3c7e20a889a63b35218ebcd
+    mergeA: 
+    mergeB: 
+    authorName: BeatrizBotana
+    authorEmail: beabv92@gmail.com
+    commitEmail: beabv92@gmail.com
+    commitName: BeatrizBotana
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2019-04-13T23:28:22.000+02:00
+    commitTimeString: 2019-04-13T23:28:22.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\beabv\Documents\Space\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\beabv\Documents\Space\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\beabv\Documents\Space\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
